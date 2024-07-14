@@ -1,2 +1,2 @@
-# Séries Tempoais com Linguagem R
+# Séries Temporais com Linguagem R
 Estudo de Séries Temporais com o Software R
